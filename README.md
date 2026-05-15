@@ -1,9 +1,9 @@
 
-![D&D Logo](SRD_reMastered.png)
+![srd-rematered](SRD_reMastered.png)
 
 ---
 
-# D&D 5E (2024) SRD v5.2.1 reMastered!
+# Year Zero Engine reMastered!
 
 For additional information and other reMastered SRDs, please visit the [SRD Hub](https://srd.oldmanumby.com).
 
