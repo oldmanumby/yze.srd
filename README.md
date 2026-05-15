@@ -1,16 +1,17 @@
-![YZElogo](yze.logo.png)
+
+![D&D Logo](SRD_reMastered.png)
 
 ---
 
-# REorganized. REpublished. REmastered!
+# D&D 5E (2024) SRD v5.2.1 reMastered!
 
-### What is Year Zero Engine SRD REmastered?
+For additional information and other reMastered SRDs, please visit the [SRD Hub](https://srd.oldmanumby.com).
 
-This is an adaptation of the **Year Zero Engine SRD** converted to Markdown (.MD) for easy export to other publishing formats and utilized in your own YZE projects. Please report any issues or discrepancies within the material itself; see Discussions & Issues below.
+### What is a reMastered SRD?
 
-**The YZE Systems Reference Document (SRD)** contains guidelines for publishing your own YZE content under the [Year Zero Engine FTL license](https://freeleaguepublishing.com/community-content/free-tabletop-licenses/).
+This material contains a **reOrganized and rePublished** markdown (.md) adaptation of the original .PDF documentation (a.k.a SRD) to use and/or export in your own projects via the publisher's guidelines and game license (all contained within the material). This adaptation does not contain any content of a proprietary nature or identified as product identity. Please report any issues or discrepancies of the converted material; see **rePport & reFork** below. 
 
-For additional information and other converted SRDs, please visit the [SRD Hub](https://srd.oldmanumby.com).
+[Download](../../archive/refs/heads/main.zip) this markdown SRD in a .ZIP file.
 
 <details>
  <summary>Why Markdown format?</summary>
@@ -26,18 +27,24 @@ In addition, Markdown may be exported to HTML and many other formats using a num
 
 I recommend using the following Markdown applications to edit the material:
 
-* [Typora](https://typora.io): **$15** (Pay Once; MacOS, Windows, and Linux)
-* [Marked2](https://marked2app.com) **$14** (Pay Once; MacOS only)
-* [Visual Studio Code](https://code.visualstudio.com/Download): **FREE!** Markdown Plugins: **FREE!**
+* [Visual Studio Code for Editing](https://code.visualstudio.com/Download): **FREE!** Markdown Plugins: **FREE!**
+* [Typora for Editing/Exporting](https://typora.io): **$15** (Pay Once; MacOS, Windows, and Linux)
 
-To export markdown to other publishing formats, I recommend using ***Typora*** as it has many good export options that will satisfy the majority of users. Most good Markdown editors will offer basic exports. ***Marked2*** is NOT a markdown editor, but it opens markdown files and can export them in a variety of themes. 
-
-However, if you want even more export formats and options, [PanWriter](https://panwriter.com) is the best solution, but you'll need [PanDoc](https://pandoc.org) installed to get the best results. Both are **FREE!**
+To export markdown to other publishing formats, I recommend using ***Typora*** as it has many good export options that will satisfy the majority of users. Most good Markdown editors will offer basic exports. However, if you want even more export formats and options, [PanWriter](https://panwriter.com) is the best solution, but you'll need [PanDoc](https://pandoc.org) installed to get the best results. Both are **FREE!**
 
 </details>
 
 <details>
- <summary>Discussions & Issues</summary>
+ <summary>PKM-Friendly</summary>
 
-Feel free to visit our [discussion](https://github.com/oldmanumby/yze.srd/discussions) forum to examine publishing ideas regarding the D&D SRD. Please **REport** any [issues](https://github.com/oldmanumby/yze.srd/issues) you find through GitHub. As an alternative, you can **REfork & REuse** this project through a GitHub [pull request](https://github.com/oldmanumby/yze.srd/pulls).
+This SRD material contains optional content organized specifically for personal knowledge management (PKM) applications like [Obsidian.md](https://obsidian.md). Obsidian is a powerful knowledge base on top of a local folder of markdown (.md) files. That definition sounds simple; however, when add some RPG plugins, Obsidian becomes so much more.
 
+Visit [Josh Plunket's Website](https://obsidianttrpgtutorials.com) to learn more about using Obsidian for your roleplaying game campaign management.
+
+</details>
+
+<details>
+ <summary>rePport & reFork</summary>
+
+Please **rePort** any [issues](../../issues) you find through GitHub. As an alternative, you can **reFork** this project through a GitHub [pull request](../../pulls).
+</details>
